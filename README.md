@@ -10,4 +10,5 @@ Every student adds their name below. Merge conflicts are expected. That's the wh
 - Line 7 names:
 
 Rules: work on your issue branch, rebase before merging, and only force push your own branch.
+
 Managed by Tanishq Saria (CS 429 manager).
